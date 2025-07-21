@@ -51,7 +51,7 @@ The goal was to derive insights into profitability, revenue patterns, and hit/fl
 Screenshots
 
 #🔹 Movie Overview Page
-![Movie Overview Page](./Screenshots/Movie_Overview_Page.png)
+![Movie Overview Page](./Screenshots/Movie Overview Page.png)
 
 #🔹 Performance & Profitability Page
 ![Performance Page](./Screenshots/Performance_Page.png)
