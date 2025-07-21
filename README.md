@@ -50,18 +50,18 @@ The goal was to derive insights into profitability, revenue patterns, and hit/fl
 
 Screenshots
 
-#🔹 Movie Overview Page
-![Movie Overview Page](./Screenshots/Movie Overview Page.png)
+# Movie Overview Page
+ [Movie Overview Page] (./Screenshots/Movie Overview Page.png)
 
-#🔹 Performance & Profitability Page
-![Performance Page](./Screenshots/Performance_Page.png)
+# Performance & Profitability Page
+ [Performance Page] (./Screenshots/Performance Page.png)
 
-#🔹 Movie details Page
-![Drilldown Page](./Screenshots/Drilldown Page.png)
+# Movie details Page
+ [Drilldown Page] (./Screenshots/Drilldown Page.png)
 
 
-#🔹 Tooltip Example
-![Tooltip](./Screenshots/Tooltip_Example.png)
+# Tooltip Example
+ [Tooltip] (./Screenshots/Tooltip Example.png)
 
 ---
 
