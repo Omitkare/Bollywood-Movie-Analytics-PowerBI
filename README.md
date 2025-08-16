@@ -51,7 +51,7 @@ The goal was to derive insights into profitability, revenue patterns, and hit/fl
 Screenshots
 
 # Movie Overview Page
- [Movie Overview Page] (./Screenshots/Movie Overview Page.png)
+ https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/main/screenshots/Movie%20Overview%20Page.png?raw=true
 
 # Performance & Profitability Page
  [Performance Page] (./Screenshots/Performance Page.png)
@@ -92,3 +92,4 @@ Final Year B.Tech | Power BI & Data Science Enthusiast
 ## 📎 License
 
 This project is for educational and portfolio purposes.
+
