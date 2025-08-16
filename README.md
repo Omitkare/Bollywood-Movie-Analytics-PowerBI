@@ -48,26 +48,24 @@ The goal was to derive insights into profitability, revenue patterns, and hit/fl
 
 ---
 
-Screenshots
-
 # Movie Overview Page
- https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/main/screenshots/Movie%20Overview%20Page.png?raw=true
+![image alt](https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/main/screenshots/Movie%20Overview%20Page.png?raw=true)
 
 # Performance & Profitability Page
- [Performance Page] (./Screenshots/Performance Page.png)
+![image alt](https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/846449b260b55ba9eb9b49a4064a629cdffeb50e/screenshots/Performance%20Page.png)
 
 # Movie details Page
- [Drilldown Page] (./Screenshots/Drilldown Page.png)
+![image alt](https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/846449b260b55ba9eb9b49a4064a629cdffeb50e/screenshots/Drilldown%20Page.png)
 
 
 # Tooltip Example
- [Tooltip] (./Screenshots/Tooltip Example.png)
+ ![image alt](https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/846449b260b55ba9eb9b49a4064a629cdffeb50e/screenshots/Tooltip.png))
 
 ---
 
 # Preview Video
 
-Demo – [`Dashboard.mp4`] (./Videos/Dashboard.mp4) 
+Demo – [`Dashboard.mp4`] (https://github.com/Omitkare/Bollywood-Movie-Analytics-PowerBI/blob/a8490087056da69cbd0535c71e115ce6a96ebb2a/Videos/Dashboard.mp4) 
 
 ---
 
@@ -82,9 +80,8 @@ Real-world Bollywood movie data including:
 
 # Author
 
-**Omajay Itkare**  
+Omajay Itkare 
 Final Year B.Tech | Power BI & Data Science Enthusiast  
-[ Portfolio](https://omajay.vercel.app)
 [ Linkedin](https://www.linkedin.com/in/omajay-itkare/)
 
 ---
@@ -92,4 +89,5 @@ Final Year B.Tech | Power BI & Data Science Enthusiast
 ## 📎 License
 
 This project is for educational and portfolio purposes.
+
 
